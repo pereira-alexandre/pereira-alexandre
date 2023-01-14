@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate beckend/data science student from Brazil</h3>
+<h3 align="center">A Financial Controllership Analyst, graduated in Data Science</h3>
 
 - 🔭 I’m currently working on RPA Process Automation **qlikExtractionBot**
 
