@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A Financial Controllership Analyst, graduated in Data Science</h3>
 
-- 🔭 I’m currently working on RPA Process Automation **qlikExtractionBot**
+- 🔭 I’m currently working on business intelligence automation
 
-- 🌱 I’m currently learning **Python, Django, linux, Power Query M, DAX**
+- 🌱 I’m currently learning **Power Query M, DAX, Alteryx**
 
-- 👯 I'm also working as a Controllership Analyst at Cia. Hering [Business Controllership](https://www.hering.com.br/)
+- 👯 I'm also working as a Controllership and Data Analyst at Cia. Hering [Business Controllership](https://www.hering.com.br/)
 
 - 💬 Ask me about **SQL, Shell script, Python, Linux, Power BI, Qlik Sense, Power Shell, Excel & VBA**
 
