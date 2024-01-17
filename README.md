@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A Financial Controllership Analyst, graduated in Data Science</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=I'm Alex,+Welcome+to+My+data Science+Profile!" 
+  align="middle" alt="Hey, I'm Alex Welcome to my Data Science And Analytics Profile!">
 
 - 🔭 I’m currently working on business intelligence automation
 
