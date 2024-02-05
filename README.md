@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=I'm Alex,+Welcome+to+My+Data Science+Profile!" 
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi,+Welcome+to+My+Data Science+Profile!" 
   align="middle" alt="Welcome To My Data Science And Analytics Profile!">
 <img  src="assets/borderseperator.gif">
 
